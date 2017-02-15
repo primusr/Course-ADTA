@@ -1,0 +1,35 @@
+___________ a row or column lets you keep headings visible as you work with the data in a large worksheet.{=Freezing}
+
+To create an Excel table, click the _______ tab on the ribbon, and then click the Table button. {=Insert}
+
+You can rearrange, or _________, the records in a table or range based on the data in one or more fields.{=sort}
+
+The fields you use to order the data are called ________. {=sort fields}
+
+A ___________ indicates the sequence in which you want data ordered. {=custom list}
+
+___________ filters enable you to specify various conditions in addition to those that are based on an "equals" criterion. {=Criteria}
+
+A __________, which you can display at the end of the table, is used to calculate summary statistics for the columns in an Excel table.{=Total row}
+
+A _________ is an interactive table that enables you to group and summarize either a range of data or an Excel table into a concise, tabular format for easier reporting and analysis. {=PivotTable}
+
+A ___________ allows you to filter the PivotTable to display summarized data for one or more field items or all field items. {=report filter}
+
+You cannot change the data directly in the PivotTable. Instead, you must edit the Excel table, and then __________, or update, the PivotTable to reflect the current state of the art objects list.{=refresh}
+
+A ____________ is a graphical representation of the data in a PivotTable. {=PivotChart}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

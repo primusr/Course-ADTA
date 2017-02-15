@@ -1,0 +1,33 @@
+A chart, or graph, is a __________ representation of a set of data. {=visual}
+
+The _________ is the range that contains the data you want to display in the chart. {=data source}
+
+By default, a chart is inserted as an ___________, which means the chart is placed in a worksheet next to its data source. {=embedded chart}
+
+To work with the chart title and legend, a user must:Click the chart title to select it, type the chart title, and then press the Enter key, click the ___________ tab on the Ribbon and in the Labels group, click the Legend button, and then click the desired legend position. {=Chart Tools Layout}
+
+A _______ displays values in different categories as columns; the height of each column is based on its value.{=column chart}
+
+The ________ is a column chart turned on its side, so each bar length is based on its value. {bar chart}
+
+What type of chart is being shown below.{=Column}
+
+What type of chart is being shown below.{=Line}
+
+What type of chart is being shown below.{=Pie}
+
+What type of chart is being shown below.{=Bar}
+
+What type of chart is being shown below.{=Area}
+
+What type of chart is being shown below.{=XYScatter}
+
+What type of chart is being shown below.{=Stock}
+
+What type of chart is being shown below.{=Surface}
+
+What type of chart is being shown below.{=Doughnut}
+
+What type of chart is being shown below.{=Bubble}
+
+What type of chart is being shown below.{=Radar}

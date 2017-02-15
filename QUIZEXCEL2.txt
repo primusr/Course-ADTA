@@ -1,0 +1,48 @@
+___________ is the process of changing a workbook’s appearance by defining the fonts, styles, colors, and decorative features. {=Formatting =formatting}
+
+A ___________ is a collection of formatting that specifies the fonts, colors, and graphical effects used throughout the workbook.{=theme}
+
+As you work, ____________ shows the effects of formatting options on the workbook’s appearance before you apply them. {=Live Preview =live preview}
+
+The appearance of text is determined by its _________, which is the specific design used for the characters. {=typeface}
+
+Apply a color by selecting a cell or range of cells, clicking the _________ or Fill Color button arrow, and then selecting an appropriate color.{=Font Color =font color}
+
+The __________ appears when you select text and contains buttons for commonly used text formats.{=Mini toolbar =mini toolbar}
+
+
+To set a background image, the user click the __________ tab on the Ribbon, click the Background button, locate the background, and then click the Insert button. {=Page Layout =page layout}
+
+You can repeat information, such as the company name, by specifying which rows or columns in the worksheet act as ____________, information that prints on each page. {=print titles}
+
+A __________ is the text printed in the top margin of each page. {=header}
+
+A ___________ is the text printed in the bottom margin of each page. {=footer}
+
+By default, values appear in the _____________, which, for the most part, displays numbers exactly as you enter them.{General number format =general number format}.
+
+Match the following{ 
+=1->Aligns the cell content with the cell's top edge.
+=2->Verticcally centers the cell content within the cell
+=3->Aligns the cell content with the cell's bottom edge.
+=4->Aligns the cell content with the cell's left edge.
+=5->Horizontally centers the cell content within the cell.
+=6->Aligns the cell content with the cell's right edge.
+=7->Decrease the size of the indention used in the cell.
+=8->Increases the size of the indention used in the cell.
+=9->Rotates the cell content to an angle within the cell.
+=10->Forces the cell text to wrap within the cell borders.
+=11->Merges the selected cells into a single cell.
+}
+
+One way to align text over several columns or rows is to ________, or combine, several cells into one cell. {=merge}
+
+The ___________ copies the formatting from one cell or range to another cell or range, without duplicating any of the data. {=Format Painter =format painter}
+
+You can treat a range of data as a distinct object in a worksheet known as an ___________. {=Excel table =excel table} 
+
+A __________ applies formatting only when a cell’s value meets a specified condition. {=conditional format}
+
+A ___________ is a horizontal bar added to the background of a cell to provide a visual indicator of the cell’s value.{=data bar}
+
+Excel prints as much as fits on a page and then inserts a __________ to continue printing the remaining worksheet content on the next page. {=page break}
